@@ -18,6 +18,8 @@ Python 3.6.6
 numpy 1.18.2  
 pandas 0.25.3  
 transformers 3.0.2  
+torch: 1.4.0  
+seaborn: 0.10.0  
   
 **Usage:**    
 batch size = 32  
