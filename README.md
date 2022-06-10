@@ -16,7 +16,7 @@ transformers 3.0.2
 Usage:    
   
 Hyperparameters:  
-_optimization algorithm:_ Adam learning rate optimization algorithm(type of Stochastic Gradient Descent with momentum; Momentum is described as the moving average of the gradient instead of gradient itself.)
+_optimization algorithm:_ Adam learning rate optimization algorithm (type of Stochastic Gradient Descent with momentum; Momentum is described as the moving average of the gradient instead of gradient itself.)
   
 Experiment results: Accuracy  
 ![image](https://user-images.githubusercontent.com/91117215/173069600-b003400c-b00a-403b-aea6-e8a6ef7cd0c2.png)
