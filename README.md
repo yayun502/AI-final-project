@@ -20,7 +20,9 @@ pandas 0.25.3
 transformers 3.0.2  
   
 **Usage:**    
-  
+batch size = 32  
+#epochs = 3  
+
 **Hyperparameters:**  
 _optimization algorithm:_ Adam learning rate optimization algorithm (type of Stochastic Gradient Descent with momentum; Momentum is described as the moving average of the gradient instead of gradient itself.)
   
