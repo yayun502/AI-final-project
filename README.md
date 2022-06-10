@@ -9,7 +9,7 @@ Train an agent to find the best emoji choise for a sentence by using multi-class
   
 **Prerequisite:**  
 
-Environment:
+Environment:<br>
 Google colab (baseline metrics) / Kaggle notebook (main model) with GPU  
   
 Packages version:   
