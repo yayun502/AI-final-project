@@ -1,19 +1,19 @@
 # AI-final-project
-**Topic:** Text-based emoji recommendation
+### **Topic:** Text-based emoji recommendation
 
-**Overview of the task:**  
+### **Overview of the task:**  
 Train an agent to find the best emoji choise for a sentence by using multi-class NLP model and Bert model.
 
-**Dataset:**<br>
+### **Dataset:**<br>
 [Emotions dataset for NLP in Kaggle](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?resource=download)
   
-**Prerequisite:**  
+### **Prerequisite:**  
 
-Environment:<br>
+**Environment:**  
 Google colab (baseline metrics)  
 Kaggle notebook with GPU (main model)
   
-Packages version:   
+**Packages version:**    
 Python 3.6.6  
 numpy 1.18.2  
 pandas 0.25.3  
