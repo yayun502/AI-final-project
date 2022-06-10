@@ -5,15 +5,15 @@
 Train an agent to find the best emoji choise for a sentence by using multi-class NLP model and Bert model.
   
 **Prerequisite**  
-environment: google colab(baseline metrics) / Kaggle(main model)  
+Environment: google colab(baseline metrics) / Kaggle(main model)  
   
-packages version:    
+Packages version:    
   
-usage:    
+Usage:    
   
-hyperparameters:  
+Hyperparameters:  
   
-experiment results:  
+Experiment results: Accuracy  
 ![image](https://user-images.githubusercontent.com/91117215/173069600-b003400c-b00a-403b-aea6-e8a6ef7cd0c2.png)
 
 
