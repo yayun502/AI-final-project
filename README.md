@@ -5,7 +5,7 @@
 Train an agent to find the best emoji choise for a sentence by using multi-class NLP model and Bert model.
   
 **Prerequisite**  
-Environment: Google colab(baseline metrics) / Kaggle notebook(main model)  
+Environment: Google colab (baseline metrics) / Kaggle notebook (main model) with GPU  
   
 Packages version:   
 Python 3.6.6  
