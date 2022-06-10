@@ -8,10 +8,10 @@ Train an agent to find the best emoji choise for a sentence by using multi-class
 Environment: Google colab(baseline metrics) / Kaggle notebook(main model)  
   
 Packages version:   
-Python 3.6.6
-numpy 1.18.2
-pandas 0.25.3
-transformers 3.0.2
+Python 3.6.6  
+numpy 1.18.2  
+pandas 0.25.3  
+transformers 3.0.2  
   
 Usage:    
   
