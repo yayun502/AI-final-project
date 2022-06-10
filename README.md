@@ -7,7 +7,9 @@ Train an agent to find the best emoji choise for a sentence by using multi-class
 **Prerequisite**  
 Environment: google colab(baseline metrics) / Kaggle(main model)  
   
-Packages version:    
+Packages version:   
+Python 3  
+transformers 3.0.2
   
 Usage:    
   
